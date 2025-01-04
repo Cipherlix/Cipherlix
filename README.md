@@ -112,10 +112,4 @@ Cipherlix<h2 align="left">Hey 👋! Welcome to Cipherlix</h2>
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Cipherlix/Cipherlix/output/snake.svg" alt="Snake animation" /> 
-
-###
