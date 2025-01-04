@@ -116,6 +116,6 @@ Cipherlix<h2 align="left">Hey 👋! Welcome to Cipherlix</h2>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Cipherlix/Cipherlix/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Cipherlix/Cipherlix/output/snake.svg" alt="Snake animation" /> 
 
 ###
